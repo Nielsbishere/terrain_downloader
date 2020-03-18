@@ -1,0 +1,6 @@
+[submodule "curl"]
+	path = curl
+	url = https://github.com/curl/curl
+[submodule "libzip"]
+	path = libzip
+	url = https://github.com/nih-at/libzip
